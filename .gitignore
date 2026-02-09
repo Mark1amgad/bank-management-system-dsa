@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Packages
+packages/
+*.nupkg
+
+# Logs and temp
+*.log
+*.tmp
+
+# XML docs (large auto-generated docs)
+*.xml
+loginForm.resx
+loginForm.resx
+*.resx
